@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZb4kgA0X7Ccj+7DpDDHzkcYTRCWSb3tm6xGRz8oSsMzlbH+ldCqM1EWW5Z5h0E4XUC1SKGbawuXjflbRUHmNQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\sevgin.trampov\\Desktop\\SoftUniBazar\\SoftUniBazar\\SoftUniBazar.Data\\SoftUniBazar.Data.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Identity.EntityFrameworkCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.EntityFrameworkCore.SqlServer. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.EntityFrameworkCore.Tools. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
